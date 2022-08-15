@@ -1,3 +1,4 @@
-# Recommendation-system-practice
+# Recommendation-system
 
-This is my practice R code of a movie recommendation system which I referenced from https://data-flair.training/blogs/data-science-r-movie-recommendation/ 
+Recomendation system for a movie streaming application like netflix, but the recommendation system is based on the average users favourites, not based on the personal interest. 
+
